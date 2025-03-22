@@ -63,6 +63,13 @@ OUTPUT:
 Whatweb -v 3 172.17.62.8
 ![Alt text](<meta connect.png>)
 
+Httprint
+OUTPUT:
+![268918245-60d425cc-5f76-41f7-8634-261b13e42b66](https://github.com/user-attachments/assets/63a77d36-f93a-46e0-b88d-de87201d6e26)
+
+
+
+
 Tracing The Location
 TCP Traceroute:
 sudo -T ww.gmail.com
