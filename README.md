@@ -22,6 +22,65 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+Who is:
+OUTPUT:
+![Alt text](image.png)
+
+Finding IP Address:
+
+IP Address of FACEBOOK.com
+OUTPUT:
+![Alt text](image-9.png)
+
+Finding Hosting Company
+get further detail by using ip2location.com website.
+
+OUTPUT:
+![Alt text](image-1.png)
+
+Histoey Of The Website:
+OUTPUT:
+![Alt text](image-2.png)
+
+
+Netcat:
+OUTPUT:
+sudo nc google.com 80
+GET / HTTP/1.1
+Host: google.com
+
+OUTPUT:
+![Alt text](image-3.png)
+
+NMAP:
+OUTPUT:
+![Alt text](image-4.png)
+
+Whatweb
+OUTPUT:
+![Alt text](image-5.png)
+
+Whatweb -v 3 172.17.62.8
+![Alt text](<meta connect.png>)
+
+Tracing The Location
+TCP Traceroute:
+sudo -T ww.gmail.com
+
+OUTPUT:
+![Alt text](<sudo traceroute-1.png>)
+
+UDP Traceroute:
+sudo traceroute -U www.gmail.com
+OUTPUT:
+
+![Alt text](image-7.png)
+
+ICMP Traceroute:
+sudo traceroute  www.gmail.com
+OUTPUT:
+![Alt text](image-8.png)
+
 
 
 ## RESULT:
